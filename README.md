@@ -2,6 +2,7 @@
 
 [![Chat on Miaou](https://miaou.dystroy.org/static/shields/room-en.svg?v=1)](https://miaou.dystroy.org/3?Code_et_Croissants)
 [![Chat on Miaou](https://miaou.dystroy.org/static/shields/room-fr.svg?v=1)](https://miaou.dystroy.org/3?Code_et_Croissants)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/Canop/broot?branch=master&svg=true)](https://ci.appveyor.com/project/Canop/broot)
 
 An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.
 
